@@ -35,7 +35,7 @@ jobs:
           # Define SSH connection info
           SSH_USER="root"
           DO_DROPLET_IP="164.92.226.160"
-          APP_NAME="spice"
+          APP_NAME="spicefrontend"
          REMOTE_PATH="/home/root/deployment/site/spicefrontend/"
 
 
